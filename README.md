@@ -4,36 +4,42 @@
 </div>
 
 ## 🙋‍♂️ About me
-I am a data scientist with a passion for machine learning and data visualization. I have experience in Python, Scikit-learn, and SQL, and enjoy transforming complex data into actionable insights.
+I am a Software Engineering student at Universidad Tecnológica del Perú (UTP), based in Lima, Peru. I focus on backend development with Go, building REST APIs with PostgreSQL, JWT authentication, and Docker. I also use Python in data projects and am strengthening my backend and cloud skills.
 
-- 💼 I have experience in data management for companies with wholesale sales.
-- 🌱 I am currently specializing in topics related to data science.
-- 🧠 If I don't understand something, rest assured that I will end up specializing in it.
-- 🗣 I like to talk about topics related to data science, programming, economics and politics.
-- 💾 My projects are on Github [Github](https://github.com/felixgper?tab=repositories)
-- ⚽ In my free time I like to play soccer, exercise and watch movies.
+- 💼 I am looking for my first opportunity as a backend intern, trainee, or junior developer.
+- 🌱 I am currently learning more about Python for backend development, GCP fundamentals, and automated testing.
+- 🧠 When I don't understand something, I enjoy working through it step by step and putting it into practice.
+- 🗣 I like to talk about backend development, programming, technology, economics, and politics.
+- 💾 My projects are on [GitHub](https://github.com/felixgper?tab=repositories).
+- ⚽ In my free time I like to play soccer, exercise, and watch movies.
 
 ## 💪 Skills
 
-- ⌨ **Programming languages:** Python, SQL
-- 📔 **Data Analysis Tools:** Pandas, NumPy, Scikit-learn
-- 📶 **Data Visualization:** Matplotlib, Seaborn, Tableau
-- 🧮 **Machine Learning:** Supervised and unsupervised models
-- 🛠 **Databases:** MySQL, PostgreSQL
+- ⌨ **Programming languages:** Go, Python, SQL
+- 📔 **Backend Development:** REST APIs, Gorilla Mux, JWT authentication, password hashing with bcrypt
+- 📶 **Tools:** Docker, Git, GitHub
+- 🧮 **Currently Learning:** Python backend development, automated testing, GCP fundamentals
+- 🛠 **Databases:** PostgreSQL, MySQL
 
 ## ☝ Featured projects
 
+### 🔐 REST API with Go
+A personal backend project built with Go and PostgreSQL, including JWT authentication, password hashing with bcrypt, and Docker for the development environment.
+
+- 💻 **Technologies:** Go, Gorilla Mux, PostgreSQL, JWT, bcrypt, Docker
+- 🖇 **Link to project:** [GitHub repo link](https://github.com/felixgper/api_golang)
+
+### 🔧 El Bravo del Jac
+A university web project for an automotive workshop, presenting its services and helping customers get in touch through WhatsApp.
+
+- 💻 **Technologies:** HTML, CSS, JavaScript
+- 🖇 **Link to project:** [GitHub repo link](https://github.com/felixgper/elbravodeljac)
+
 ### 📊 Retail Sales Analysis
-Development of a predictive model to estimate future sales in a chain of retail stores, using regression techniques among other predictive models.
+A Python data project focused on estimating future retail sales using regression and other predictive models. This project complements my backend work with experience handling and analyzing data.
 
 - 💻 **Technologies:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 - 🖇 **Link to project:** [GitHub repo link](https://github.com/felixgper/Walmart)
-
-### 🎮 The success of a video game in the market
-Development of a predictive model capable of predicting whether a video game was successful or not, both regression and classification models will be used.
-
-- 💻 **Technologies:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
-- 🖇 **Link to project:** [GitHub repo link](https://github.com/felixgper/Videojuegos)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -41,5 +47,5 @@ Development of a predictive model capable of predicting whether a video game was
 
 ## 👤 Contact
 
-- 🫂 [LinkedIn](https://www.linkedin.com/feed/)
+- 🫂 [LinkedIn](https://www.linkedin.com/in/felix-gonzales-648bb6226/)
 - ✉ [Email](mailto:felixgonzales94@gmail.com)
